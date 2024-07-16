@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="<?php echo e(global_asset('assets/landlord/common/css/spectrum.min.css')); ?>">
+<?php /**PATH C:\laragon\www\nazmart\core\resources\views/components/colorpicker/css.blade.php ENDPATH**/ ?>
